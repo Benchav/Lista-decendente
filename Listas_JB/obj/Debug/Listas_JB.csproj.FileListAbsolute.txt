@@ -1,0 +1,7 @@
+C:\Users\123\OneDrive\Escritorio\programacion con estructura de datos\Programas en C#\Listas_JB\Listas_JB\bin\Debug\Listas_JB.exe.config
+C:\Users\123\OneDrive\Escritorio\programacion con estructura de datos\Programas en C#\Listas_JB\Listas_JB\bin\Debug\Listas_JB.exe
+C:\Users\123\OneDrive\Escritorio\programacion con estructura de datos\Programas en C#\Listas_JB\Listas_JB\bin\Debug\Listas_JB.pdb
+C:\Users\123\OneDrive\Escritorio\programacion con estructura de datos\Programas en C#\Listas_JB\Listas_JB\obj\Debug\Listas_JB.csproj.AssemblyReference.cache
+C:\Users\123\OneDrive\Escritorio\programacion con estructura de datos\Programas en C#\Listas_JB\Listas_JB\obj\Debug\Listas_JB.csproj.CoreCompileInputs.cache
+C:\Users\123\OneDrive\Escritorio\programacion con estructura de datos\Programas en C#\Listas_JB\Listas_JB\obj\Debug\Listas_JB.exe
+C:\Users\123\OneDrive\Escritorio\programacion con estructura de datos\Programas en C#\Listas_JB\Listas_JB\obj\Debug\Listas_JB.pdb
